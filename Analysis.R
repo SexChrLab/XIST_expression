@@ -1,5 +1,4 @@
 #Pseudocode description of what we are trying to do
-
 # Access the GTEx data
 agave.asu.edu
 newgrp wilsonsayreslab
