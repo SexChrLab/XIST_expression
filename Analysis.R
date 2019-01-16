@@ -9,5 +9,9 @@ phe000020.v1.GTEx_RNAseq.expression-data-matrixfmt.c1/
 phe000024.v1.GTEx_ASE_SNPs.expression-matrixfmt-ase.c1/
 #Messing around with data
 cat GTEx_Data_20160115_v7_RNAseq_RNASeQCv1.1.8_metrics.tsv | awk '{print $1,$2,$3,$4}' | less
+#Prints entire zipped file in readable format
+zcat file.txt.gz | head | less -s
+#Checks size of directory
+du -sbh /path/to/directory
 
 
