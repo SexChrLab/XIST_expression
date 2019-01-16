@@ -2,6 +2,7 @@
 # Access the GTEx data
 agave.asu.edu
 newgrp wilsonsayreslab
+newgrp combinedlab
 /mnt/storage/DATASETS/INVESTOR_DATA/MELISSA/dbgap_8834/10091050/files 
 #Download read counts for GTEx
 phe000020.v1.GTEx_RNAseq.expression-data-matrixfmt.c1/ 
