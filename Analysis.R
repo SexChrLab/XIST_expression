@@ -1,4 +1,6 @@
 #Pseudocode description of what we are trying to do
+#Data dictionary for data table pht002742.v7.p2
+ftp://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000424/phs000424.v7.p2/pheno_variable_summaries/phs000424.v7.pht002742.v7.GTEx_Subject_Phenotypes.data_dict.xml
 # Access the GTEx data
 agave.asu.edu
 newgrp wilsonsayreslab
